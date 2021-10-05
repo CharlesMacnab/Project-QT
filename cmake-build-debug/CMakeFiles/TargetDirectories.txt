@@ -1,0 +1,4 @@
+/mnt/c/Users/charl/Documents/PRISM/code file (cpp & h)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/charl/Documents/PRISM/code file (cpp & h)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/charl/Documents/PRISM/code file (cpp & h)/cmake-build-debug/CMakeFiles/Final.dir
+/mnt/c/Users/charl/Documents/PRISM/code file (cpp & h)/cmake-build-debug/CMakeFiles/Final_automoc.dir
